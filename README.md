@@ -33,4 +33,4 @@ We used GridSearchCV to perform hyperparameter tuning for the RandomForestClassi
   min_samples_split: [2, 3, 4]
   
 ## Contact 
-Created by [Your Name] - [your.email@example.com]
+Created by Samarth Mathur - samarthmathur199@gmail.com
