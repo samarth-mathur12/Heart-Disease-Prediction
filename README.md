@@ -31,6 +31,14 @@ We used GridSearchCV to perform hyperparameter tuning for the RandomForestClassi
   n_estimators: [50, 100, 150]
   max_depth: [3, 5, 7]
   min_samples_split: [2, 3, 4]
+
+## Results
+The model achieves an accuracy of 97.39% on the test set.<br>
+
+Below are some key metrics(in %):<br>
+Precision: 97.91<br>
+Recall: 93.37<br>
+F1-Score: 95.59<br>
   
 ## Contact 
 Created by Samarth Mathur - samarthmathur199@gmail.com
