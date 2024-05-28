@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyVFofgyVj_5gYRpbVuAKwhOev9YER4WA3Q&s"><br>
 # About DataSet:
 This dataset contains the medical records of 5000 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features.
 
